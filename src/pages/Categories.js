@@ -1,6 +1,6 @@
 
 
-function Categories () => {
+function Categories ()  {
 
     return(
 
